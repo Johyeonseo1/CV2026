@@ -10,10 +10,6 @@ ComputerVision
 </details>
 
 ## Homework
-<details>
-<summary><b>Homework 2</b></summary>
-<img src="https://github.com/Johyeonseo1/CV2026/Homework2"/>
 
-<details>
-<summary><b>Homework 2</b></summary>
-<img src="https://github.com/Johyeonseo1/CV2026/Homework3"/>
+[[ Homework_2 ]](https://github.com/Johyeonseo1/CV2026/Homework2), 
+[[ Homework_3 ]](https://github.com/Johyeonseo1/CV2026/Homework3),

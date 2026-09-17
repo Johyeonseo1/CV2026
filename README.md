@@ -2,7 +2,7 @@
 ComputerVision
 
 <details>
-<summary><b>Tutorial</b></summary>
+<summary><b>Homework</b></summary>
 
-[[ HW_1 ]](https://github.com/Johyeonseo1/CV2026/), 
+[[ Homework_1 ]](https://github.com/Johyeonseo1/CV2026/), 
 </details>

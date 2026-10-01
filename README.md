@@ -14,7 +14,7 @@ ComputerVision
 <details>
   <summary><b>Homework 1</b></summary>
   <details>
-    <summary><b>Selfie Segmentation</b></summary>
+    <summary>Selfie Segmentation</summary>
     <img src="https://github.com/Johyeonseo1/CV2026/blob/main/Homework1-selfie.gif"/>
       
     [[ code ]](https://github.com/Johyeonseo1/CV2026/blob/main/Homework1-selfie.ipynb)

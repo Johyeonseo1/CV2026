@@ -20,7 +20,7 @@ ComputerVision
     [[ code ]](https://github.com/Johyeonseo1/CV2026/blob/main/Homework1-selfie.ipynb)
   </details>
   <details>
-    <summary><b>Yolo</b></summary>
+    <summary>Yolo</summary>
     <img src="https://github.com/Johyeonseo1/CV2026/blob/main/Homework1-yolo.gif"/>
       
     [[ code ]](https://github.com/Johyeonseo1/CV2026/blob/main/Homework1-yolo.ipynb)

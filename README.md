@@ -24,5 +24,4 @@ ComputerVision
 
 </details>
 
-[[ Homework_2 ]](https://github.com/Johyeonseo1/CV2026/blob/main/Code/Homework2.ipynb)
 

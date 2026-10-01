@@ -25,3 +25,8 @@ ComputerVision
 </details>
 
 [[ Homework_2 ]](https://github.com/Johyeonseo1/CV2026/blob/main/Homework2.ipynb), 
+
+<details>
+<summary>📂 프로젝트 상세 보기 — [<I>바로가기</I>](https://naver.com)</summary>
+
+</details>

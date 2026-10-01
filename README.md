@@ -24,9 +24,5 @@ ComputerVision
 
 </details>
 
-[[ Homework_2 ]](https://github.com/Johyeonseo1/CV2026/blob/main/Homework2.ipynb), 
+[[ Homework_2 ]](https://github.com/Johyeonseo1/CV2026/blob/main/Homework2.ipynb)
 
-<details>
-<summary>[[ code ]](https://github.com/Johyeonseo1/IP2026/blob/main/Homework/homework1.ipynb)</summary>
-
-</details>

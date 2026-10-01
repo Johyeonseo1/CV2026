@@ -22,4 +22,4 @@ ComputerVision
 
 </details>
 
-[[ Homework_2 ]](https://github.com/Johyeonseo1/CV2026/Homework2), 
+[[ Homework_2 ]](https://github.com/Johyeonseo1/CV2026/Homework2.ipynb), 

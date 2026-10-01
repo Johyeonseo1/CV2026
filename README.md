@@ -8,6 +8,7 @@ ComputerVision
       
 <details>
 <summary>Selfie Segmentation</summary>
+      
 <img src="https://github.com/Johyeonseo1/CV2026/blob/main/Homework1-selfie.gif"/>
       
 [[ code ]](https://github.com/Johyeonseo1/CV2026/blob/main/Homework1-selfie.ipynb)
@@ -15,6 +16,7 @@ ComputerVision
 
 <details>
 <summary>Yolo</summary>
+      
 <img src="https://github.com/Johyeonseo1/CV2026/blob/main/Homework1-yolo.gif"/>
   
 [[ code ]](https://github.com/Johyeonseo1/IP2026/blob/main/Homework/homework1.ipynb)

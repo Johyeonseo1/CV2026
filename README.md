@@ -12,14 +12,19 @@ ComputerVision
 ## Homework
 
 <details>
-<summary><b>Homework 1</b></summary>
-<details>
-<summary><b>Selfie Segmentation</b></summary>
-<img src="https://github.com/Johyeonseo1/CV2026/blob/main/Homework1-selfie.gif"/>
-  
-[[ code ]](https://github.com/Johyeonseo1/CV2026/blob/main/Homework1-selfie.ipynb)
-</details>
-
+  <summary><b>Homework 1</b></summary>
+  <details>
+    <summary><b>Selfie Segmentation</b></summary>
+    <img src="https://github.com/Johyeonseo1/CV2026/blob/main/Homework1-selfie.gif"/>
+      
+    [[ code ]](https://github.com/Johyeonseo1/CV2026/blob/main/Homework1-selfie.ipynb)
+  </details>
+  <details>
+    <summary><b>Yolo</b></summary>
+    <img src="https://github.com/Johyeonseo1/CV2026/blob/main/Homework1-yolo.gif"/>
+      
+    [[ code ]](https://github.com/Johyeonseo1/CV2026/blob/main/Homework1-yolo.ipynb)
+  </details>
 </details>
 
 [[ Homework_2 ]](https://github.com/Johyeonseo1/CV2026/Homework2), 

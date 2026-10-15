@@ -8,7 +8,7 @@ Artificial Neural Network
       
 samples=100  
 noise=.1
-</details
+</details>
       
 <details>
 <summary>수치</summary>

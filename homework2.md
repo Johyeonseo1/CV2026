@@ -2,7 +2,7 @@ ANN
 =============
 Artificial Neural Network
 
-[[ code ]](https://github.com/Johyeonseo1/CV2026/blob/main/homework2.ipynb)
+[[ code ]](https://github.com/Johyeonseo1/CV2026/blob/main/Homework2.ipynb)
 
 <img src="https://github.com/Johyeonseo1/CV2026/blob/main/img/1neu.png"/>
 

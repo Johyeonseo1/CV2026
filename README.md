@@ -24,4 +24,11 @@ ComputerVision
 
 </details>
 
+<details>
+<summary><b>Homework 2</b></summary>
+
+[[ Homework2.md ]](https://github.com/Johyeonseo1/CV2026/blob/main/homework2.md)
+[[ Code ]](https://github.com/Johyeonseo1/CV2026/blob/main/homework2.ipynb)
+</details>
+
 

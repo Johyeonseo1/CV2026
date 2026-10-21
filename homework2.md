@@ -13,6 +13,7 @@ noise=.1
 <details>
 <summary>수치</summary>
       
+activation : sigmoid
 learning_rate : 0.849  
 epochs : 25,000  
 batch_size : 100

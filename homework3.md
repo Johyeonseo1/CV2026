@@ -1,5 +1,6 @@
 FNN & CNN
 =============
+[[ code ]](https://github.com/Johyeonseo1/CV2026/blob/main/Homework3.ipynb)
 
 ### 테스트 숫자
 이미지와 정답이 같이 있는 목록  

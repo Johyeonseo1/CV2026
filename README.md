@@ -31,4 +31,8 @@ ComputerVision
 [[ code ]](https://github.com/Johyeonseo1/CV2026/blob/main/Homework2.ipynb)
 </details>
 
+<details>
+<summary><b>Homework 3</b></summary>
 
+[[ Homework3.md ]](https://github.com/Johyeonseo1/CV2026/blob/main/homework3.md)
+</details>

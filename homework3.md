@@ -8,9 +8,10 @@ FNN & CNN
       
 ### FNN 결과
 <img src="https://github.com/Johyeonseo1/CV2026/blob/main/img/Homework3/FNN.png"/>
-ㅇㅇ
+정확도 50%
 
 ### CNN 결과
 <img src="https://github.com/Johyeonseo1/CV2026/blob/main/img/Homework3/CNN.png"/>
+정확도 90%
 
 ### FNN과 CNN 정확도 비교
